@@ -1,2 +1,4 @@
-I selected the Pima Indians Diabetes dataset because it contains clean numerical features along with realistic data quality issues such as missing values and outliers, making it suitable for practicing preprocessing techniques. 
-Additionally, the dataset includes correlated variables, which allows the application of normalization and PCA as required by the assignment.
+##  Dataset Selection
+
+This project uses the Pima Indians Diabetes dataset because it contains numerical features along with real-world data quality issues such as missing values and outliers, making it ideal for practicing preprocessing techniques. Additionally, the presence of correlated variables allows the application of normalization and PCA as required by the assignment.
+
